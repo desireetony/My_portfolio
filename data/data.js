@@ -1,5 +1,5 @@
 
-import RealEst from '../assets/projects/realestate.jpg'
+
 import react_crypto from '../assets/react_crypto.png'
 import qr_code_generator from '../assets/qr_code_generator.png'
 import burger_house from '../assets/burger_house.png'
